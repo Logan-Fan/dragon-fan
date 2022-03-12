@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dragon-fan
+- 👋 Hi, I’m @Logan_Fan
 - 👀 I’m interested in IC design and AI algorithm
 - 🌱 I’m currently learning EEE
 - 💞️ I’m looking to collaborate on ...
